@@ -12,7 +12,7 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
 - **Languages:** Python, Java, JavaScript
 - **Web Dev:** HTML5, CSS3, JavaScript (Learning React)
 - **Database:** SQL
-- **Cloud/Tools:** Git, GitHub, VS Code, Cloud Fundamentals,AWS
+- **Cloud/Tools:** Git, GitHub, VS Code, Cloud Fundamentals
 
 ### 📊 My Goals for 2026:
 - Build 5 full-stack projects from scratch.
