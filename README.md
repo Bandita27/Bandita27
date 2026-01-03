@@ -1,4 +1,4 @@
-# Hi there, I'm Bandita! 👋
+# Hi 👋, I'm Bandita!
 
 I am a final-year Computer Science & Engineering student specializing in **Artificial Intelligence**. I enjoy the logic of the backend and the creativity of the frontend.
 
