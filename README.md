@@ -14,11 +14,6 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
 - **Database:** SQL
 - **Cloud/Tools:** Git, GitHub, VS Code, Cloud Fundamentals
 
-### 📊 My Goals for 2026:
-- Build 5 full-stack projects from scratch.
-- Contribute to Open Source.
-- Get certified in a Cloud platform (AWS/Azure).
-
 ---
 
 ### 📫 Reach out to me:
