@@ -10,7 +10,7 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
 
 ### 💻 Tech Stack & Tools:
 - **Languages:** Python, Java, JavaScript
-- **Web Dev:** HTML5, CSS3, JavaScript (Learning React)
+- **Web Dev:** HTML5, CSS3, JavaScript,typescript (Learning React)
 - **Database:** SQL
 - **Cloud/Tools:** Git, GitHub, VS Code, Cloud Fundamentals
 
