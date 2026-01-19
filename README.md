@@ -29,7 +29,7 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
   
 
 ### 📫 Reach out to me:
--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bandita-singh-91b4a1311)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bandita-singh-91b4a1311)
 
 
 "I believe in learning by building and breaking things."
