@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bandita!
+<h1 align="center">Hi 👋, I'm Bandita!</h1>
 
 I am a final-year Computer Science & Engineering student specializing in **Artificial Intelligence**. I enjoy the logic of the backend and the creativity of the frontend.
 
@@ -9,15 +9,27 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
 - 🌱 I’m currently a student at **GITA Autonomous  College**.
 
 ### 💻 Tech Stack & Tools:
-- **Languages:** Python, Java, JavaScript
-- **Web Dev:** HTML5, CSS3, JavaScript,typescript (Learning React)
-- **Database:** SQL
-- **Cloud/Tools:** Git, GitHub, VS Code, Cloud Fundamentals
-
----
+- **Languages:**
+  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- **Web Dev:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+- **Framework:**
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+- **Database:** 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+- **Cloud/Tools:**
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+- **Development:**
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
 
 ### 📫 Reach out to me:
-- **LinkedIn:** www.linkedin.com/in/bandita-singh-91b4a1311
+-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bandita-singh-91b4a1311)
 
 
 "I believe in learning by building and breaking things."
