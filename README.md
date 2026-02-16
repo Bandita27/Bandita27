@@ -3,7 +3,7 @@
 I am a final-year Computer Science & Engineering student specializing in **Artificial Intelligence**. I enjoy the logic of the backend and the creativity of the frontend.
 
 ### 🛠️ What I'm working on:
-- 🔭 I’m currently exploring **Frontend Development** (React/HTML/CSS).
+- 🔭 I’m currently exploring **Backend Development** (FastAPI).
 - 🐍 Deepening my knowledge in **Python** for AI and Automation.
 - ☁️ Learning the basics of **Cloud Computing** to deploy my projects.
 - 🌱 I’m currently a student at **GITA Autonomous  College**.
@@ -19,9 +19,11 @@ I am a final-year Computer Science & Engineering student specializing in **Artif
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 - **Framework:**
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 - **Database:** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
 - **Cloud/Tools:**
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 - **Development:**
